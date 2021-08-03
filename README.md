@@ -1,4 +1,5 @@
 ## Hi there! I am Luís 👋
+<img align="right" alt="Luis-Matrix" src="https://media1.giphy.com/media/rvsIuQkF1iL3G/giphy.gif?cid=ecf05e47j8tc2x2mm9f2utqfuj92dimdhfbhwjwndvdte7fn&rid=giphy.gif&ct=g">
  <div>
   <a href="https://github.com/luisrodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -10,8 +11,7 @@
   <img align="center" alt="Luis-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="right" alt="Luis-Matrix" src="https://media1.giphy.com/media/rvsIuQkF1iL3G/giphy.gif?cid=ecf05e47j8tc2x2mm9f2utqfuj92dimdhfbhwjwndvdte7fn&rid=giphy.gif&ct=g">
+  <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
   ##
