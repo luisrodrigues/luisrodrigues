@@ -20,5 +20,6 @@
   <a href="https://www.linkedin.com/in/lurodrigues96/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <img align="left" alt="Luis-Matrix" src="https://media1.giphy.com/media/rvsIuQkF1iL3G/giphy.gif?cid=ecf05e47j8tc2x2mm9f2utqfuj92dimdhfbhwjwndvdte7fn&rid=giphy.gif&ct=g">
  <br>
- ![Snake animation](https://github.com/luisrodrigues/luisrodrigues/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
+ ![Snake animation](https://github.com/luisrodrigues/luisrodrigues/blob/output/github-contribution-grid-snake.svg)
