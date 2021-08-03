@@ -1,5 +1,4 @@
 ## Hi there! I am Luís 👋
-<img align="right" alt="Luis-Matrix" src="https://media1.giphy.com/media/rvsIuQkF1iL3G/giphy.gif?cid=ecf05e47j8tc2x2mm9f2utqfuj92dimdhfbhwjwndvdte7fn&rid=giphy.gif&ct=g">
  <div>
   <a href="https://github.com/luisrodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luisrodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,6 +16,7 @@
   ##
  
 <div>
+  <img align="right" alt="Luis-Matrix" src="https://media1.giphy.com/media/rvsIuQkF1iL3G/giphy.gif?cid=ecf05e47j8tc2x2mm9f2utqfuj92dimdhfbhwjwndvdte7fn&rid=giphy.gif&ct=g">
   <a href = "mailto:luis.cnm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lurodrigues96/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
