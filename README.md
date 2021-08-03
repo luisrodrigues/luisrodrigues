@@ -18,8 +18,7 @@
 <div>
   <a href = "mailto:luis.cnm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lurodrigues96/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/luisrodrigues/luisrodrigues/blob/output/github-contribution-grid-snake.svg)
-  <img align="left" alt="Luis-Matrix" src="https://media1.giphy.com/media/rvsIuQkF1iL3G/giphy.gif?cid=ecf05e47j8tc2x2mm9f2utqfuj92dimdhfbhwjwndvdte7fn&rid=giphy.gif&ct=g">
- 
+ <img align="left" alt="Luis-Matrix" src="https://media1.giphy.com/media/rvsIuQkF1iL3G/giphy.gif?cid=ecf05e47j8tc2x2mm9f2utqfuj92dimdhfbhwjwndvdte7fn&rid=giphy.gif&ct=g">
+ <br>
+ ![Snake animation](https://github.com/luisrodrigues/luisrodrigues/blob/output/github-contribution-grid-snake.svg)
 </div>
