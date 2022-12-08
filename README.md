@@ -8,7 +8,7 @@
   <img align="center" alt="Luis-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Luis-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Luis-GO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Luis-GO" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg">
   <img align="left" alt="Luis-Matrix" src="https://media1.giphy.com/media/rvsIuQkF1iL3G/giphy.gif?cid=ecf05e47j8tc2x2mm9f2utqfuj92dimdhfbhwjwndvdte7fn&rid=giphy.gif&ct=g">
 </div>
   
